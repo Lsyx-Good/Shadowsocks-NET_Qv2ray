@@ -9,4 +9,4 @@
 	url = https://github.com/danielsanfr/qt-qrcode
 [submodule "src/Qv2rayBase"]
 	path = src/Qv2rayBase
-	url = https://github.com/dyhkwong/Qv2rayBase.git
+	url = https://github.com/Lsyx-Good/Qv2rayBase.git
